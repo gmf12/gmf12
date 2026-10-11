@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0b3c5d,100:328cc1&height=260&section=header&text=Glaucio%20Monteiro%20Ferreira&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computational%20Medicinal%20Chemistry%20%7C%20Molecular%20Modeling%20%7C%20Protein%20Dynamics&descAlignY=58&descSize=18)
+![Glaucio Monteiro Ferreira — Computational Medicinal Chemistry, Molecular Modeling, Protein Dynamics](assets/banner.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=328CC1&center=true&vCenter=true&width=700&lines=Research+Associate+%7C+IQ-USP;FAPESP+Young+Investigator;Molecular+Dynamics+%26+Markov+State+Models;PCSK9+%C2%B7+Nuclear+Receptors+%C2%B7+SARS-CoV-2+proteases)](https://git.io/typing-svg)
 
